@@ -23,8 +23,3 @@ public class MultiCatchException {
 		}
 	}
 }
-class Executo{
-public static void main(String args[]) {
-	MultiCatchException.divide();
-}
-}
